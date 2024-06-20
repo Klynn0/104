@@ -1,5 +1,5 @@
 mountpoints:
-  /:
+  /:https://drive.google.com/drive/folders/1WlKV-Kco2ZokGVPKVmj_jDhw91FcL0zS
     url: "https://author-p136760-e1377419.adobeaemcloud.com/bin/franklin.delivery/Klynn0/104/main"
     type: "markup"
     suffix: ".html"
